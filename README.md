@@ -1,53 +1,65 @@
-# my-Cv
+# My Curriculum Vitae
 
-Joseph
-Aniogbe 
-Cloud/devops engineer
+Welcome to my CV repository! I am Joseph Aniogbe, a Cloud/DevOps Engineer with expertise in Google Cloud Platform (GCP) and Microsoft Azure.
 
-Joseph Aniogbe 
-No 19c  rumuagholu 
-Portharcourt , Rivers State
-08109261563
-joaniogbe@gmail.com
-ㅡ
-Skills
 
-ㅡ
-Highly skilled  Cloud/devops engineer with a focus on Google Cloud Platform (GCP) and Azure . 
-Proficient in using GCP services such as Cloud Shell, Google Cloud Console, Kubernetes, IAM roles, bash scripting, Python, and Terraform. 
-Proven ability to design and implement scalable, reliable, and cost-effective cloud solutions with terraform, Github actions and Docker. 
- 
-Excellent communication and collaboration skills with a passion for solving complex problems and driving innovation.
-ㅡ
+
+## socials
+- **LinkedIn**: [Joseph Aniogbe](https://www.linkedin.com/in/joseph-aniogbe-061187183)
+- **GitHub**: [rudesandwich](https://github.com/rudesandwich)
+- **Email**: joaniogbe@gmail.com
+
+
+Joseph Aniogbe
+==============
+
+Cloud/DevOps Engineer
+---------------------
+
+Contact Information
+-------------------
+
+- **Address**: No 19c Rumuagholu, Port Harcourt, Rivers State, Nigeria
+- **Phone**: +234 810 926 1563
+- **Email**: joaniogbe@gmail.com
+- **LinkedIn**: `Joseph Aniogbe <https://www.linkedin.com/in/joseph-aniogbe-061187183>`_
+- **GitHub**: `rudesandwich <https://github.com/rudesandwich>`_
+
+Professional Summary
+--------------------
+
+Highly skilled Cloud/DevOps Engineer with expertise in Google Cloud Platform (GCP) and Microsoft Azure. Proficient in Cloud Shell, Google Cloud Console, Kubernetes, IAM roles, Bash scripting, Python, and Terraform. Proven ability to design and implement scalable, reliable, and cost-effective cloud solutions using Terraform, GitHub Actions, and Docker. Strong communicator with a passion for solving complex problems and driving innovation.
+
 Experience
+----------
 
-Cloud/Devops  (current position)
-GADS program
-Duration:  2 years
-* Designed and implemented scalable, reliable, and cost-effective cloud solutions using Google Cloud Platform (GCP).
-* Demonstrated proficiency in using Cloud Shell for 2 years as part of the Qwiklabs program on GADS, Google Cloud Console for 2 years, Kubernetes, IAM roles, bash scripting, Python, and Terraform for 2 years.
-* Managed and supported GCP infrastructure for clients across various industries, providing guidance on best practices and identifying opportunities for optimization.
-* Led the development of a GCP-based disaster recovery solution for a financial services client, resulting in a 50% reduction in recovery time objective.
-* Collaborated with cross-functional teams to design and implement complex solutions, leveraging GCP services such as Pub/Sub, BigQuery, and Cloud SQL.
-ㅡ
+**Cloud/DevOps Engineer**, GADS Program
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*February 2023 - Present (2 years)*
+
+- Designed and implemented scalable, reliable, and cost-effective cloud solutions using Google Cloud Platform (GCP).
+- Demonstrated proficiency in Cloud Shell, Google Cloud Console, Kubernetes, IAM roles, Bash scripting, Python, and Terraform over 2 years, including participation in the Qwiklabs program on GADS.
+- Managed and supported GCP infrastructure for clients across various industries, providing guidance on best practices and identifying optimization opportunities.
+- Led the development of a GCP-based disaster recovery solution for a financial services client, achieving a 50% reduction in recovery time objective.
+- Collaborated with cross-functional teams to design and implement solutions leveraging GCP services such as Pub/Sub, BigQuery, and Cloud SQL.
+
 Education
+---------
 
-university of portharcourt / Electrical Engineering 
-September 2018- July 2024
+**B.Eng. in Electrical Engineering**, University of Port Harcourt
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+*September 2018 - July 2024*
 
-
-
-ㅡ
 Certificates
+------------
 
--Google Africa Developer scholarship participation certificate 
--Microsoft Azure fundamentals 
-socials
+- Google Africa Developer Scholarship Participation Certificate
+- Microsoft Azure Fundamentals
 
+Skills
+------
 
-LinkedIn
-www.linkedin.com/in/joseph-aniogbe-061187183
-Github
-https://github.com/rudesandwich
-
-
+- **Cloud Platforms**: Google Cloud Platform (GCP), Microsoft Azure
+- **Tools & Technologies**: Cloud Shell, Google Cloud Console, Kubernetes, IAM roles, Bash scripting, Python, Terraform, GitHub Actions, Docker
+- **Soft Skills**: Excellent communication, collaboration, problem-solving, and innovation
+Feel free to explore my projects and contributions on GitHub!
