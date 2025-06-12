@@ -22,8 +22,8 @@ Contact Information
 - **Address**: No 19c Rumuagholu, Port Harcourt, Rivers State, Nigeria
 - **Phone**: +234 810 926 1563
 - **Email**: joaniogbe@gmail.com
-- **LinkedIn**: `Joseph Aniogbe <https://www.linkedin.com/in/joseph-aniogbe-061187183>`_
-- **GitHub**: `rudesandwich <https://github.com/rudesandwich>`_
+- **LinkedIn**: `Joseph Aniogbe https://www.linkedin.com/in/joseph-aniogbe-061187183`_
+- **GitHub**: `rudesandwich https://github.com/rudesandwich`_
 
 Professional Summary
 --------------------
